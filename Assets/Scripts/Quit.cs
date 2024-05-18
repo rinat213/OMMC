@@ -10,6 +10,7 @@ public class Quit : MonoBehaviour
 
     public void Reload()
     {
+        Results.Score = 0;
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().name);
     }
 }

@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1689615547449641529, guid: 74493e9a292ae134daadcc52c057133d, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 140
+      value: 560
       objectReference: {fileID: 0}
     - target: {fileID: 1689615547449641529, guid: 74493e9a292ae134daadcc52c057133d, type: 3}
       propertyPath: m_SizeDelta.y
@@ -102,7 +102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7404592672779008889, guid: 74493e9a292ae134daadcc52c057133d, type: 3}
       propertyPath: m_Name
-      value: Button Variant
+      value: Answer
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
